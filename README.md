@@ -14,8 +14,6 @@
     <br> <br>
     <image src="imagem da minha irmãzinha 03.jpg" controls height="100" width="200"></image>
     <br> <br>
-    <image src="imagem da minha irmãzinha 03.jpg" controls height="100" width="200"></image>
-    <br> <br>
     <image scr="imagem da minha irmãzinha 04.jpg" controls height="100" width="200"></image>
     <br> <br>
     
