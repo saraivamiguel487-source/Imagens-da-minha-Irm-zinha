@@ -1,0 +1,66 @@
+* {
+    background-color: rgb(182, 182, 182);
+    color: snow;
+}
+
+
+h1 {
+    color: white;
+    background-color: blueviolet;
+    color: snow;
+    margin: 0 auto;
+    padding: 150px 50px;
+    border-width: 10px;
+    border-color: yellow;
+    border-style: solid;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px 100px 200px 350px;
+}
+
+
+#conteudo {
+    width: 100%;
+}
+
+.texto {
+    width: 80%;
+    margin: auto;
+    background-color: darkorange;
+    color: snow
+}
+
+#area-login {
+    margin: auto;
+    width: 300px;
+    border: 15px solid black; 
+    padding: 50px;
+    /*aqui quero vocês arredondem*/
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: rebeccapurple;
+    color: snow;
+    padding: 15px;
+    color: snow;
+    border-radius: 15px;
+    border: 1px solid snow
+}
+
+input {
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+input[type="email"] {
+    background-color: aquamarine;
+    border-radius: 15px
+}
+button:hover{
+    background-color: blueviolet;
+}
